@@ -16,6 +16,7 @@ pada Program tersebut saya juga menambahkan library bawaan yaitu 'import:io' aga
 program akan menampilkan **Slip Gaji Karyawan** berisi nama karyawan, gaji kotor, pajak, dan gaji bersih.
 
 ## Instruksi Menjalankan Program
-1. Pastikan Dart sudah terinstall. Cek dengan perintah:
+1. untuk menjalankan program ini, harus menginstall dart terlebih dahulu.
+2. jika sudah terinstall, bisa di cek menggunakan perintah berikut :
    ```bash
    dart --version
